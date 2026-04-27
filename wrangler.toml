@@ -1,8 +1,6 @@
-name = "ntut-app-qr"
+name = "qr-ntut-app"
 main = "src/index.ts"
 compatibility_date = "2024-04-03"
 
 [[kv_namespaces]]
 binding = "QR_SESSIONS"
-id = "QR_SESSIONS_ID" # This is a placeholder for local dev
-preview_id = "QR_SESSIONS_PREVIEW_ID"
